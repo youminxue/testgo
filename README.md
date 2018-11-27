@@ -1,1 +1,2 @@
 # testgo
+version 2
